@@ -1,4 +1,4 @@
-# System-Timing-Pattern-Analyzer
+# System Timing Pattern Analyzer
 
 This program does the following:
 
